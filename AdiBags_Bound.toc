@@ -1,4 +1,4 @@
-## Interface: 60000
+## Interface: 100002
 ## X-Curse-Project-Name: AdiBags_Bound
 ## X-Curse-Project-ID: adibags_bound
 ## X-Curse-Repository-ID: wow/adibags_bound/mainline
@@ -8,7 +8,7 @@
 ## Author: Outroot, Spanky
 ## Version: v1.1
 ## X-Curse-Packaged-Version: v1.1
-## X-Date: 2012-10-07T22:09:23Z
+## X-Date: 2022-11-19
 
 ## Dependencies: AdiBags
 
